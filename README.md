@@ -13,19 +13,26 @@ npm install
 npm run dev
 ```
 
-## _REPLACE_ Object
-
-// Use this file to write your report.
+## ca_phone.js Object
 
 This object has the following properties:
 
 ## Minimum acceptance Criteria
 
-- Object has a `string` property
-- Object has a `number` property
-- Object has a `boolean` property
-- Object has a `array` property
-- Object has a `function` property
+- Object has a `string` property - 
+brand. In this case it is "Apple", i also have string properties in my array's and the key: modelName.
+
+- Object has a `number` property - 
+releaseYear, this is as stated the year the phone was relased. this is a number value.
+
+- Object has a `boolean` property - 
+onSale. this is a boolean value, my thought is thath this is the controller for whether or not the item or item's within the object is on sale for the consumer too see on an app or a webpage.
+
+- Object has a `array` property - 
+modelNr and colors are my array propertys in this ca, they contain different colours and model numbers for this phone model.
+
+- Object has a `function` property - 
+sale is my function, the code within "sale" is to trigger the boolean value and display the item as on sale, obviously moore code is needed to make this functional on an app or a webpage, but i have opted to forgo this and rather work on my own personal project.
 
 ## Credits
 
